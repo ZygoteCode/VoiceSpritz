@@ -32,20 +32,20 @@ C:\Users\gabry\Desktop\Computer\Developing\Progetti\VoiceSpritz\VoiceSpritz\obj\
 C:\Users\gabry\Desktop\Computer\Developing\Progetti\VoiceSpritz\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.Fody.RuntimeCopyLocal.cache
 C:\Users\gabry\Desktop\Computer\Developing\Progetti\VoiceSpritz\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.CopyComplete
 C:\Users\gabry\Desktop\Computer\Developing\Progetti\VoiceSpritz\VoiceSpritz\obj\x64\Release\VoiceSpritz.exe
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.AssemblyReference.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.SuggestedBindingRedirects.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\obj\x64\Release\MainForm.resources
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.Properties.Resources.resources
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.GenerateResource.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.CoreCompileInputs.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.exe
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\bin\x64\Release\VoiceSpritz.exe.config
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\bin\x64\Release\VoiceSpritz.exe
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\bin\x64\Release\Microsoft.Win32.Registry.xml
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\bin\x64\Release\NAudio.xml
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\bin\x64\Release\System.Security.AccessControl.xml
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\bin\x64\Release\System.Security.Principal.Windows.xml
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.Fody.CopyLocal.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.Fody.RuntimeCopyLocal.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.CopyComplete
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\obj\x64\Release\MainForm.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.Properties.Resources.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.GenerateResource.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.exe
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\bin\x64\Release\VoiceSpritz.exe.config
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\bin\x64\Release\VoiceSpritz.exe
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\bin\x64\Release\Microsoft.Win32.Registry.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\bin\x64\Release\NAudio.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\bin\x64\Release\System.Security.AccessControl.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\bin\x64\Release\System.Security.Principal.Windows.xml
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.Fody.CopyLocal.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\VoiceSpritz\obj\x64\Release\VoiceSpritz.csproj.CopyComplete
